@@ -9,4 +9,8 @@ El objetivo es aprender a manejar GIT con propiedad y seguir avanzando en la lí
 Hoy se desempeña como Data Analyst en Merqueo.
 
 Esto es una prueba para usar el git rm -cached, git rm -forced, git reset -hard, git reset -soft, git reset HEAD
+
+
+Alejandro es una persona que quiere contribuir en la historia de este proyecto. 
+
 Esto es otra prueba para usar git reset --soft
